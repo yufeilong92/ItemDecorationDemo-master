@@ -5,10 +5,11 @@
 
 
 欢迎大家一起探讨研究。
-![imgage](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/firet.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/two.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/three.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/four.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/five.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/six.png)
-![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/ItemDecorationDemo/icon/server.png)
+##图片查看
+首页![imgage](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/first.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/two.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/three.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/four.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/five.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/six.png)
+![image](https://github.com/yufeilong92/ItemDecorationDemo-master/blob/master/icon/server.png)
